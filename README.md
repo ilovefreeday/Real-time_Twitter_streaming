@@ -26,12 +26,17 @@ console/.
  - Github: https://developer.github.com/v3/
  - Meetup:  https://secure.meetup. com/meetup_api
 
-Register at official website then submit a request for API
-<img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-28%20at%2012.04.28%20PM.png" width="500"/>
+#### Register at official website then submit a request for API
+</br>
+<img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-28%20at%2012.04.28%20PM.png" width="500">
 <img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-28%20at%2012.16.28%20PM.png" width="500">
-What's the data looks like
+</br>
+
+#### What's the data looks like
+</br>
 <img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-28%20at%2012.16.02%20PM.png" width="500">
 <img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-28%20at%2012.08.53%20PM.png" width="500">
+</br>
 
 ### Mongodb
 Start Mongodb server
