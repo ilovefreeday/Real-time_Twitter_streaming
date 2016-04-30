@@ -48,6 +48,27 @@ Blaze is an open source Python library, Blaze extends to out-of-core computing, 
 - Computation: Using the same query processing against computational backends such as Spark, MongoDB, Pandas, or SQL Alchemy.
 - Symbolic expressions: Abstract expressions such as join, group-by, filter, selection, and projection with a syntax similar to Pandas but limited in scope. Implements the split-apply-combine methods pioneered by the R language.
 
+### Two models for processing:
+- Processing one record at a time as they come in. We do not buffer the incoming records in a container before processing them. This is the case of Twitter's Storm, Yahoo's S4, and Google's MillWheel.
+- Micro-batching or batch computations on small intervals as performed by Spark Streaming and Storm Trident. In this case, we buffer the incoming records in a container according to the time window prescribed in the micro-batching settings.
+
+### Kafka
+Apache Kafka is a distributed publish subscribe messaging system rethought as a distributed commit log. The messages are stored by topic.
+- High throughput for high volume of events feeds
+- Real-time processing of new and derived feeds
+- Large data backlogs and persistence for offline consumption
+- Low latency as enterprise wide messaging system
+- Fault tolerance thanks to its distributed nature
+
+### Python plotting and visualization Libraries
+- Matplotlib is the grandfather of the Python plotting libraries. Matplotlib was originally the brainchild of John Hunter who was an open source software proponent and established Matplotlib as one of the most prevalent plotting libraries both in the academic and the data scientific communities. 
+- Seaborn, developed by Michael Waskom, is a great library to quickly visualize statistical information. It is built on top of Matplotlib and integrates seamlessly with Pandas and the Python data stack, including Numpy.
+- ggplot is relatively new and aims to offer the equivalent of the famous ggplot2 from the R ecosystem for the Python data wranglers. It has the same look and feel of ggplot2 and uses the same grammar of graphics as expounded by Hadley Wickham.
+- D3.js is a very popular, JavaScript library developed by Mike Bostock. D3 stands for Data Driven Documents and brings data to life on any modern browser leveraging HTML, SVG, and CSS. It delivers dynamic, powerful, interactive visualizations by manipulating the DOM.
+- Bokeh aims to deliver high-performance interactivity over very large or streaming datasets whilst leveraging lot of the concepts of D3.js without the burden of writing some intimidating javascript and css code. Bokeh delivers dynamic visualizations on the browser with or without a server. It integrates seamlessly with Matplotlib, Seaborn and ggplot and renders beautifully in IPython notebooks or Jupyter notebooks.
+
+
+
 
 
 
