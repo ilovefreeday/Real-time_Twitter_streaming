@@ -24,7 +24,7 @@ console/.
 ### Getting data
  - Twitter: https://apps.twitter.com/app/new
  - Github: https://developer.github.com/v3/
- - Meetup:  https://secure.meetup. com/meetup_api
+ - Meetup:  https://secure.meetup.com/meetup_api
 
 #### Register at official website then submit a request for API
 </br>
