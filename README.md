@@ -26,6 +26,13 @@ console/.
  - Github: https://developer.github.com/v3/
  - Meetup:  https://secure.meetup. com/meetup_api
 
+Register at official website then submit a request for API
+<img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-28%20at%2012.04.28%20PM.png" width="500"/>
+<img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-28%20at%2012.16.28%20PM.png" width="500">
+What's the data looks like
+<img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-28%20at%2012.16.02%20PM.png" width="500">
+<img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-28%20at%2012.08.53%20PM.png" width="500">
+
 ### Mongodb
 Start Mongodb server
 ```sudo service mongodb start```
@@ -67,8 +74,10 @@ Apache Kafka is a distributed publish subscribe messaging system rethought as a 
 - D3.js is a very popular, JavaScript library developed by Mike Bostock. D3 stands for Data Driven Documents and brings data to life on any modern browser leveraging HTML, SVG, and CSS. It delivers dynamic, powerful, interactive visualizations by manipulating the DOM.
 - Bokeh aims to deliver high-performance interactivity over very large or streaming datasets whilst leveraging lot of the concepts of D3.js without the burden of writing some intimidating javascript and css code. Bokeh delivers dynamic visualizations on the browser with or without a server. It integrates seamlessly with Matplotlib, Seaborn and ggplot and renders beautifully in IPython notebooks or Jupyter notebooks.
 
+### Polt data on Google Map
 
-
+<img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-30%20at%201.58.11%20PM.png" width="600">
+<img src="https://github.com/ilovefreeday/Real-time_Twitter_streaming/blob/master/pic/Screen%20Shot%202016-04-30%20at%201.58.30%20PM.png"width="600">
 
 
 
