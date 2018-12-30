@@ -1,4 +1,4 @@
-# Real-time_Twitter_streaming
+# Real-time Twitter Streaming
 Real-time tweets analyze using Spark
 
 ### Setting up
